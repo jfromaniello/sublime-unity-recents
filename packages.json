@@ -8,7 +8,7 @@
 			"homepage": "https://github.com/jfromaniello/sublime-unity-recents",
 			"last_modified": "2011-12-12 05:04:31",
 			"platforms": {
-				"osx": [
+				"linux": [
 					{
 						"version": "1.0.0",
 						"url": "https://nodeload.github.com/jfromaniello/sublime-unity-recents/zip/master"
